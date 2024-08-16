@@ -1,0 +1,79 @@
+\usepackage{url}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{mathtools}
+\usepackage{float,multicol}
+\usepackage{subcaption}
+\usepackage{fancyhdr}
+\usepackage{comment}
+\usepackage{sectsty}
+\usepackage{xspace}
+\usepackage{caption}
+\usepackage{setspace}
+\usepackage{cite}
+\usepackage{stabular}
+\usepackage{fontspec}
+\usepackage{xeCJK}
+\usepackage[breaklinks=true]{hyperref}
+\usepackage{preamble/thesis}
+\usepackage{adjustbox}
+
+\setCJKmainfont[Mapping=han-trad]{Songti TC}
+
+\allsectionsfont{\usefont{OT1}{cmr}{bx}{n}\selectfont}
+\chapterfont{\usefont{OT1}{cmr}{bx}{n}\selectfont \LARGE}
+\sectionfont{\usefont{OT1}{cmr}{bx}{n}\selectfont \large}
+\subsectionfont{\usefont{OT1}{cmr}{bx}{n}\selectfont \normalsize}
+\subsubsectionfont{\usefont{OT1}{cmr}{bx}{n}\selectfont \normalsize}
+\partfont{\usefont{OT1}{cmr}{bx}{n}\selectfont \Huge}
+\paragraphfont{\bf \em}
+
+\hypersetup{
+  pdftitle={Video and Language Description Targeted Person Search},
+  pdfauthor={Shuang Li},
+  pdfkeywords={Person search, person re-identification, natural language processing, deep learning},
+  pdfsubject={M.Phil. Thesis},
+  bookmarksnumbered,
+  bookmarksopen=true,
+  pdfpagemode=UseOutlines,
+  pdfstartview={FitV},
+  colorlinks=true,
+  anchorcolor=black,
+  filecolor=magenta,
+  linkcolor=black,
+  citecolor=[rgb]{0.098,0.463,0.824},
+  menucolor=[rgb]{0.098,0.463,0.824},
+  urlcolor=[rgb]{0.098,0.463,0.824}}
+
+\setlength{\textfloatsep}{20pt}
+\setlength{\floatsep}{20pt}
+\setlength{\intextsep}{20pt}
+\setlength{\dbltextfloatsep}{20pt}
+\setlength{\dblfloatsep}{20pt}
+
+\renewcommand{\topfraction}{1}
+\renewcommand{\bottomfraction}{1}
+\renewcommand{\textfraction}{0}
+\renewcommand{\floatpagefraction}{0.999}
+\renewcommand{\dbltopfraction}{0.999}
+\renewcommand{\dblfloatpagefraction}{0.999}
+\renewcommand{\floatpagefraction}{0.999}
+
+\renewcommand{\today}{\ifcase\month\or
+  January\or February\or March\or April\or May\or June\or
+  July\or August\or September\or October\or November\or December\fi\space\number\year}
+
+\def\figurename{\bf Figure}
+\def\tablename{\bf Table}
+\renewcommand{\captionfont}{\sl \small}
+
+\restylefloat{figure} \restylefloat{table}
+
+% Include the Copyright, List of Tables and List of Figures
+\tablestrue \figurestrue
+
+%The \raggedbottom declaration makes all pages
+%the height of the text on that page. No extra vertical space is added.
+\raggedbottom

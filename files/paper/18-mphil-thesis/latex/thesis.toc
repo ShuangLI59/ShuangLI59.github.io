@@ -1,0 +1,76 @@
+\contentsline {chapter}{Abstract}{ii}{chapter*.1}
+\contentsline {chapter}{Abstract in Chinese}{iii}{chapter*.2}
+\contentsline {chapter}{Acknowledgments}{iv}{chapter*.3}
+\contentsline {chapter}{Declaration}{v}{chapter*.4}
+\contentsline {chapter}{Contents}{viii}{chapter*.5}
+\contentsline {chapter}{List of Figures}{xi}{chapter*.6}
+\contentsline {chapter}{List of Tables}{xiii}{chapter*.7}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Deep Learning Basics}{4}{chapter.2}
+\contentsline {section}{\numberline {2.1}Convolutional Neural Network}{4}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Convolutional Layer}{5}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Fully-Connected Layer}{6}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}ReLU Layer and Softmax Layer}{7}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Pooling Layer}{7}{subsection.2.1.4}
+\contentsline {section}{\numberline {2.2}Recurrent Neural Network}{8}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Long Short-Term Memory}{8}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Gated Recurrent Unit}{9}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Deep Learning Applications}{10}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Image Classification}{10}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Object Detection}{10}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Generative Adversarial Networks}{11}{subsection.2.3.3}
+\contentsline {chapter}{\numberline {3}Person Search Background}{12}{chapter.3}
+\contentsline {section}{\numberline {3.1}Person Search Categories}{12}{section.3.1}
+\contentsline {section}{\numberline {3.2}Person Search Methods}{13}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Identity Feature Learning}{13}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Feature Comparison}{14}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}Datasets}{15}{section.3.3}
+\contentsline {section}{\numberline {3.4}Evaluation Metrics}{16}{section.3.4}
+\contentsline {chapter}{\numberline {4}Diversity Regularized Spatiotemporal Attention for Video-based Person Search}{18}{chapter.4}
+\contentsline {section}{\numberline {4.1}Related Work}{19}{section.4.1}
+\contentsline {section}{\numberline {4.2}Method Overview}{21}{section.4.2}
+\contentsline {section}{\numberline {4.3}Restricted Random Sampling}{22}{section.4.3}
+\contentsline {section}{\numberline {4.4}Multiple Spatial Attention Models}{24}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Diversity Regularization}{25}{subsection.4.4.1}
+\contentsline {section}{\numberline {4.5}Temporal Attention}{28}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Re-Identification Loss}{29}{subsection.4.5.1}
+\contentsline {section}{\numberline {4.6}Experiments}{29}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}Datasets}{29}{subsection.4.6.1}
+\contentsline {subsection}{\numberline {4.6.2}Implementation details and evaluation metrics}{30}{subsection.4.6.2}
+\contentsline {subsection}{\numberline {4.6.3}Component Analysis of the Proposed Model}{31}{subsection.4.6.3}
+\contentsline {subsection}{\numberline {4.6.4}Comparison with the State-of-the-art Methods}{33}{subsection.4.6.4}
+\contentsline {section}{\numberline {4.7}Conclusions}{33}{section.4.7}
+\contentsline {chapter}{\numberline {5}Person Search with Natural Language Description}{35}{chapter.5}
+\contentsline {section}{\numberline {5.1}Related Work}{36}{section.5.1}
+\contentsline {section}{\numberline {5.2}Dataset and Method Overview}{39}{section.5.2}
+\contentsline {section}{\numberline {5.3}Benchmark for person search with natural language description}{40}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Dataset statistics}{41}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}User study}{41}{subsection.5.3.2}
+\contentsline {section}{\numberline {5.4}GNA-RNN model for pedestrian search}{44}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Visual units}{45}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Attention over visual units}{46}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}Word-level gates for visual units}{47}{subsection.5.4.3}
+\contentsline {subsection}{\numberline {5.4.4}Training scheme}{48}{subsection.5.4.4}
+\contentsline {section}{\numberline {5.5}Experiments}{48}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1}Dataset and evaluation metrics}{49}{subsection.5.5.1}
+\contentsline {subsection}{\numberline {5.5.2}Compared methods and baselines}{49}{subsection.5.5.2}
+\contentsline {subsection}{\numberline {5.5.3}Quantitative and qualitative results}{51}{subsection.5.5.3}
+\contentsline {section}{\numberline {5.6}Conclusions}{54}{section.5.6}
+\contentsline {chapter}{\numberline {6}From Natural Language based Person Search to Textual-Visual Matching}{55}{chapter.6}
+\contentsline {section}{\numberline {6.1}Related Work}{56}{section.6.1}
+\contentsline {section}{\numberline {6.2}Method Overview}{58}{section.6.2}
+\contentsline {section}{\numberline {6.3}Stage-1 CNN-LSTM with CMCE Loss}{59}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Cross-Modal Cross-Entropy Loss}{60}{subsection.6.3.1}
+\contentsline {section}{\numberline {6.4}Stage-2 CNN-LSTM with Latent Co-attention}{63}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Encoder word-LSTM with spatial attention}{64}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}Decoder LSTM with latent semantic attention}{65}{subsection.6.4.2}
+\contentsline {section}{\numberline {6.5}Experiments}{66}{section.6.5}
+\contentsline {subsection}{\numberline {6.5.1}Datasets and evaluation metrics}{66}{subsection.6.5.1}
+\contentsline {subsection}{\numberline {6.5.2}Implementation details}{67}{subsection.6.5.2}
+\contentsline {subsection}{\numberline {6.5.3}Results on CUHK-PEDES dataset}{68}{subsection.6.5.3}
+\contentsline {subsection}{\numberline {6.5.4}Ablation studies}{69}{subsection.6.5.4}
+\contentsline {subsection}{\numberline {6.5.5}Results on the CUB and Flower datasets}{71}{subsection.6.5.5}
+\contentsline {subsection}{\numberline {6.5.6}Qualitative results}{72}{subsection.6.5.6}
+\contentsline {section}{\numberline {6.6}Conclusion}{72}{section.6.6}
+\contentsline {chapter}{\numberline {7}Conclusions}{75}{chapter.7}
+\contentsline {chapter}{Bibliography}{76}{chapter.7}

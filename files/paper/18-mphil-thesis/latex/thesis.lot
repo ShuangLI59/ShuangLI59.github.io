@@ -1,0 +1,19 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Statistics of some commonly used datasets for person search.\relax }}{15}{table.3.1}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Component analysis of the proposed method: rank-1 accuracies are reported. For MARS we provide mAP in brackets. \textbf {SpaAtn} is the multi-region spatial attention, \textbf {Q$'$} and \textbf {Q} are two regularization terms, \textbf {MaxPool} and \textbf {TemAtn} are max temporal pooling and the proposed temporal attention respectively. \textbf {Ind} represents fine-tuning the whole network to each dataset independently.\relax }}{31}{table.4.1}
+\contentsline {table}{\numberline {4.2}{\ignorespaces The rank-1 accuracy using different number $K$ of diverse spatial attention models.\relax }}{32}{table.4.2}
+\contentsline {table}{\numberline {4.3}{\ignorespaces Comparisons of our proposed approach to the state-of-the-art on PRID2011, iLIDS-VID, and MARS datasets. The rank-1 accuracies are reported and for MARS we provide mAP in brackets.\relax }}{33}{table.4.3}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces Top-1 accuracy, top-5 accuracy, and average used time of manual person search results using the original sentences, and sentences with nouns, or adjectives, or verbs masked out.\relax }}{43}{table.5.1}
+\contentsline {table}{\numberline {5.2}{\ignorespaces Quantitative results of the proposed GNA-RNN and compared methods on the proposed dataset.\relax }}{50}{table.5.2}
+\contentsline {table}{\numberline {5.3}{\ignorespaces Quantitative results of GNA-RNN on the proposed dataset without VGG-16 pre-training, without world-level gates or without unit-level attentions.\relax }}{50}{table.5.3}
+\contentsline {table}{\numberline {5.4}{\ignorespaces Top-1 and top-10 accuracies of GNA-RNN with different number of visual units.\relax }}{51}{table.5.4}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {6.1}{\ignorespaces Text-to-image retrieval results by different compared methods on the CUHK-­PEDES dataset \cite {li2017person}.\relax }}{68}{table.6.1}
+\contentsline {table}{\numberline {6.2}{\ignorespaces Ablation studies on different components of the proposed two-stage framework. ``w/o ID'': not using identity-level annotations. ``w/o SMA'': not using semantic attention. ``w/o SPA'': not using spatial attention. ``w/o stage-1'': not using stage-1 network for training initialization and easy result screening.\relax }}{68}{table.6.2}
+\contentsline {table}{\numberline {6.3}{\ignorespaces Image-to-text and text-to-image retrieval results by different compared methods on the CUB dataset \cite {reed2016learning}.\relax }}{71}{table.6.3}
+\contentsline {table}{\numberline {6.4}{\ignorespaces Image-to-text and text-to-image retrieval results by different compared methods on the Flower dataset \cite {reed2016learning}.\relax }}{72}{table.6.4}
+\addvspace {10\p@ }

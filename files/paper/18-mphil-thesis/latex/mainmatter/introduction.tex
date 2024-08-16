@@ -1,0 +1,35 @@
+\chapter{Introduction}
+\label{ch:introduction}
+
+% Motivation
+Artificial intelligence (AI) products have a significant impact on human society. Creating strong AI might be the biggest event in human history. AI motivates research in many areas, from economics and law to technical topics such as control and security. The role of computer vision to AI system is just like vision to human. Vision is the most important perception for people to sense the surrounding environment.
+
+% Applications
+Person search, which aims at finding a specific person of interest from a gallery of images or videos, is a basic research problem for understanding computer vision. Human identification is tightly connected to AI systems. For example, the home security systems rely on person recognition to monitor house surroundings and warn housebreakers. Person detection and recognition are also applied to autonomous driving and smart phone apps.
+
+% Challenges
+Human can easily identify people through high-level attributes (face, gender, and age) and fine-grained details (cloth, pose, hair, accessories such as glasses, hairpin, and shoes). However, recognizing people is extremely difficult for computers. All things that the computer receives are digital signals. Computers need to understand the meaning of these numbers and transfer them to interpretable patterns which are also known as feature learning. Language-based person search is also necessary when there are only verbal descriptions of people's appearances available. However, learning good textual features is more difficult than learning visual features. Associating textual and visual patterns is also a challenging task.
+
+% Deep representation learning
+The rapid development of deep learning methods provides better solutions to artificial intelligence problems. Instead of manually designing task-specific feature representations~\cite{lowe2004distinctive,dalal2005histograms,farenzena2010person,liao2015person}, deep learning methods~\cite{krizhevsky2012imagenet,simonyan2014very,szegedy2014going,he2015deep} automatically learn them from the raw input data. The success of deep learning promotes more challenging visual tasks. Some conventional image-based problems such as image classification and object detection have been extended to video level or combined with natural language processing. This motivates us to solve the video and sentence description based person search problems.
+
+% More challenges specific to human identification
+However, video-based and natural language based person search are not easy. First, people are often partially occluded in some video frames, which can corrupt the extracted features. On the other hand, a person's pose will change over time. Assembling an effective representation of a person from these various glimpses is difficult.
+Second, existing person search methods focus on searching persons with image-based or attribute-based queries. But image-based person search requires at least one photo of the query person being given.
+Attributes have limited capability of describing persons' appearance and they are expensive to be collected. Collecting attributes requires workers to go through the long list of attributes to find the corresponding ones. Language-based person search is able to enrich the person search task. New benchmark and approaches are in urgent demands.
+Thrid, encoding natural language is more difficult than image or video. It lacks enough supervised data and effective models for learning good features. The most commonly used textual encoding architecture, RNN, tend to miss important words appearing at the beginning of the sentence. The RNN is also unstable to sentence structures.
+
+% Contributions and chapters
+In this dissertation, we address these three challenges respectively, in order to make person search applicable to real-world scenarios.
+
+In Chapter 2 we introduce some basic concepts about deep learning, including convolutional neural networks, recurrent neural networks, and some deep learning applications.
+
+In Chapter 3 we present the background of person search, reviewing the person search categories and commonly used methods, datasets, and evaluation metrics.
+
+In Chapter 4 we address the first challenge by proposing a spatiotemporal attention model for video-based person search. The network learns multiple spatial attention models and employs a diversity regularization term to ensure multiple models do not discover the same body part. Features extracted from local image regions are organized by spatial attention models and are combined using temporal attention models.
+
+In Chapter 5 we collect a large-scale person description dataset with rich language annotations and person samples from various sources. We also design an effective gated neural attention mechanism to capture the optimal word-image relations.
+
+In Chapter 6 we propose a two-stage framework and extend natural language based person search to general textual-visual matching. The stage-1 network is able to embed textual and visual features to the same space efficiently, screen easy incorrect matchings, and provide initial training point for the stage-2 training. The stage-2 network adopts a spatial attention and a semantic attention to associate words and image regions. The two-stage model achieves both efficiency and accuracy.
+
+Finally, we conclude this dissertation in Chapter 7.

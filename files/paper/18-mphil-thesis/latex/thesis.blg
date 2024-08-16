@@ -1,0 +1,331 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: thesis.aux
+The style file: IEEEtran.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated field_info (elt_size=4) to 11480 items from 5000.
+Database file #1: backmatter/references.bib
+Repeated entry---line 1280 of file backmatter/references.bib
+ : @inproceedings{zheng2017unlabeled
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1287 of file backmatter/references.bib
+ : @inproceedings{zheng2011person
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1294 of file backmatter/references.bib
+ : @inproceedings{liao2015person
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1301 of file backmatter/references.bib
+ : @inproceedings{li2014deepreid
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1308 of file backmatter/references.bib
+ : @article{wang2013intelligent
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1352 of file backmatter/references.bib
+ : @inproceedings{gray2007evaluating
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1359 of file backmatter/references.bib
+ : @inproceedings{li2012human
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1387 of file backmatter/references.bib
+ : @inproceedings{karpathy2015deep
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1394 of file backmatter/references.bib
+ : @inproceedings{vinyals2015show
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1408 of file backmatter/references.bib
+ : @inproceedings{ren2015exploring
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1415 of file backmatter/references.bib
+ : @article{reed2016learning
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1460 of file backmatter/references.bib
+ : @inproceedings{lin2014microsoft
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1488 of file backmatter/references.bib
+ : @article{xu2015show
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1502 of file backmatter/references.bib
+ : @inproceedings{antol2015vqa
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1523 of file backmatter/references.bib
+ : @inproceedings{malinowski2015ask
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1597 of file backmatter/references.bib
+ : @inproceedings{liao2015person
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1611 of file backmatter/references.bib
+ : @article{simonyan2014very
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1634 of file backmatter/references.bib
+ : @inproceedings{kang2016object
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1654 of file backmatter/references.bib
+ : @inproceedings{krizhevsky2012imagenet
+ :                                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1737 of file backmatter/references.bib
+ : @inproceedings{frome2013devise
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1744 of file backmatter/references.bib
+ : @inproceedings{reed2016learning
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1758 of file backmatter/references.bib
+ : @inproceedings{li2017person
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1765 of file backmatter/references.bib
+ : @inproceedings{lin2014microsoft
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1772 of file backmatter/references.bib
+ : @article{krishna2016visual
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1779 of file backmatter/references.bib
+ : @article{young2014image
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1788 of file backmatter/references.bib
+ : @article{hodosh2013framing
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1797 of file backmatter/references.bib
+ : @article{xiao2016end
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1804 of file backmatter/references.bib
+ : @article{hochreiter1997long
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1815 of file backmatter/references.bib
+ : @article{mao2014deep
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1822 of file backmatter/references.bib
+ : @inproceedings{vinyals2015show
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1829 of file backmatter/references.bib
+ : @inproceedings{karpathy2015deep
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1836 of file backmatter/references.bib
+ : @inproceedings{frome2013devise
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1857 of file backmatter/references.bib
+ : @inproceedings{liao2015person
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1864 of file backmatter/references.bib
+ : @inproceedings{schroff2015facenet
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1878 of file backmatter/references.bib
+ : @inproceedings{zhang2016learning
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1892 of file backmatter/references.bib
+ : @inproceedings{ahmed2015improved
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1899 of file backmatter/references.bib
+ : @inproceedings{xiao2016learning
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1913 of file backmatter/references.bib
+ : @inproceedings{cheng2016person
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1934 of file backmatter/references.bib
+ : @article{simonyan2014very
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1941 of file backmatter/references.bib
+ : @inproceedings{szegedy2015going
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1948 of file backmatter/references.bib
+ : @article{zhou2015simple
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1987 of file backmatter/references.bib
+ : @inproceedings{xiao2017joint
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1994 of file backmatter/references.bib
+ : @inproceedings{li2014deepreid
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2026 of file backmatter/references.bib
+ : @inproceedings{li2013locally
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2032 of file backmatter/references.bib
+ : @inproceedings{gray2008viewpoint
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2062 of file backmatter/references.bib
+ : @article{ding2015deep
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2072 of file backmatter/references.bib
+ : @inproceedings{prosser2010person
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2079 of file backmatter/references.bib
+ : @inproceedings{ahmed2015improved
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2086 of file backmatter/references.bib
+ : @inproceedings{zheng2011person
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2093 of file backmatter/references.bib
+ : @inproceedings{xu2015show
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2124 of file backmatter/references.bib
+ : @article{felzenszwalb2010object
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2134 of file backmatter/references.bib
+ : @inproceedings{zheng2016mars
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2149 of file backmatter/references.bib
+ : @article{zheng2016person
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2217 of file backmatter/references.bib
+ : @inproceedings{koestinger2012large
+ :                                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2235 of file backmatter/references.bib
+ : @inproceedings{ma2012local
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2241 of file backmatter/references.bib
+ : @article{zheng2017unlabeled
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2247 of file backmatter/references.bib
+ : @inproceedings{gray2007evaluating
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2253 of file backmatter/references.bib
+ : @inproceedings{baltieri20113dpes
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2259 of file backmatter/references.bib
+ : @inproceedings{farenzena2010person
+ :                                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2266 of file backmatter/references.bib
+ : @inproceedings{xiao2017joint
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2280 of file backmatter/references.bib
+ : @inproceedings{liao2015person
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2288 of file backmatter/references.bib
+ : @inproceedings{paisitkriangkrai2015learning
+ :                                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2297 of file backmatter/references.bib
+ : @inproceedings{gheissari2006person
+ :                                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2305 of file backmatter/references.bib
+ : @article{wang2013intelligent
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2315 of file backmatter/references.bib
+ : @inproceedings{yu2013harry
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2322 of file backmatter/references.bib
+ : @inproceedings{loy2009multi
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2343 of file backmatter/references.bib
+ : @inproceedings{wang2016temporal
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2350 of file backmatter/references.bib
+ : @inproceedings{he2016deep
+ :                          ,
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.13 (2008/09/30) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty journal in welinder2010caltech
+
+Done.
+You've used 144 entries,
+            4039 wiz_defined-function locations,
+            1333 strings with 30001 characters,
+and the built_in function-call counts, 77634 in all, are:
+= -- 5273
+> -- 2666
+< -- 80
++ -- 1281
+- -- 618
+* -- 3587
+:= -- 11935
+add.period$ -- 288
+call.type$ -- 144
+change.case$ -- 144
+chr.to.int$ -- 177
+cite$ -- 145
+duplicate$ -- 6423
+empty$ -- 8045
+format.name$ -- 757
+if$ -- 17814
+int.to.chr$ -- 0
+int.to.str$ -- 144
+missing$ -- 1410
+newline$ -- 455
+num.names$ -- 144
+pop$ -- 4011
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 6082
+stack$ -- 0
+substring$ -- 556
+swap$ -- 3768
+text.length$ -- 21
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 144
+warning$ -- 1
+while$ -- 172
+width$ -- 147
+write$ -- 1194
+(There were 68 error messages)

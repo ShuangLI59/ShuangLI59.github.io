@@ -1,0 +1,14 @@
+\chapter*{Abstract}
+\addcontentsline{toc}{chapter}{Abstract}
+\markboth{\uppercase{Abstract}}{\uppercase{Abstract}}
+
+Person search aims at matching a target identity with a gallery of person images. It has many real-world applications such as cross-camera person tracking, home security system, and autonomous driving. In this thesis, three problems on person search are investigated, including video-based person search, natural language based person search, and identity-aware textual-visual matching.
+
+%In the first part of this thesis, we propose a joint pedestrian detection and person re-identification optimization approach to find persons in whole scene images. Different from conventional Softmax loss function inducing biases in large-scale verification problems, a new loss function is designed to train the network effectively.
+In the first part of this thesis, we propose a diversity regularized spatiotemporal attention for video-based person search. Instead of averaging full frame features across time where people are often partially occluded, the spatiotemporal attention model learns to detect multiple diverse salient image regions to avoid features from being corrupted by occluded regions. A diversity regularization term is proposed to ensure the spatial attention models don't focus on the same body part.
+
+Video-based person search cannot be applied to some real-world scenarios where only verbal descriptions are available; therefore, the second part addresses the problem of person search using natural language description. We collect a person description dataset and design a Gated Neural Attention model to capture word-image relations. The model consists of a visual sub-network and a language sub-network. The visual sub-network encodes certain human attributes and appearance patterns. The language sub-network is a recurrent neural network. It predicts the importance of each image region to the input word and computes the sentence-image affinity.
+
+One of the problems pertaining to natural language based person search is the difficulty in balancing accuracy and efficiency in a single network. In the third part of this thesis, a two-stage framework is proposed to overcome this problem. The easy incorrect matchings (sentence and person images) are efficiently screened by a Cross-Modal Cross-Entropy loss in the stage-1 framework. The stage-2 framework further verifies hard matchings using a co-attention mechanism. 
+%The person search model is more robust to sentence structure variations and achieves the state-of-the-art result. 
+This method can solve general textual-visual matching problems.
